@@ -1,0 +1,15 @@
+{
+    "name": "nuxt-page-cache-with-redis",
+    "version": "1.0.3",
+    "description": "nuxt-page-cache-with-redis",
+    "main": "src/cache.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "redis": "^3.0.2",
+        "util": "^0.12.3"
+    }
+}
